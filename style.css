@@ -1,0 +1,68 @@
+/*Container */
+#container{
+	background-color: 'white';
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-width: thin;
+	border-color: black;
+	
+}
+
+/*Header*/
+
+#header {
+	background-color: #ED7117;
+	height: 100px;
+	text-align: center;
+}
+
+#subtitle{
+	background-color: #ED7117;
+	text-align: center;
+	font-size: calc(.75em + .5vmin);
+	 
+	
+}
+
+
+#main {
+	padding: 10px;
+}
+
+#body{
+	width: 70%;
+	float: right;
+	padding: 5px;
+	font-size: 21.333px;
+
+}
+
+#nav{
+	width:25%;
+	float: left;
+	text-align: left;
+	font-size: 21.333px;
+}
+
+#image{
+	
+}
+
+#contact info {
+	width: 70%;
+	align-content: 'left';
+	font-size: 21.333px;
+}
+
+#locationText{
+	float: right;
+	font-size: 21.333px;
+}
+
+#text{
+	width: 70%;
+	float: right;
+	font-size: 21.333px;
+}
