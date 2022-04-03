@@ -54,6 +54,8 @@
 }
 
 #locationText{
+	width: 75%;
+	text-align: left;
 	float: right;
 	font-size: 21.333px;
 }
