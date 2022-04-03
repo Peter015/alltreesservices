@@ -63,3 +63,7 @@
 	float: right;
 	font-size: 21.333px;
 }
+
+#mapImage{
+	clear: both;
+}
